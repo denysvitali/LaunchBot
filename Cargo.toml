@@ -1,0 +1,12 @@
+[package]
+name = "launchbot"
+version = "0.1.0"
+authors = ["Denys Vitali <denys.vitali@coelis.ch>"]
+
+[dependencies]
+
+reqwest = "0.6.0"
+serde_json = "1.0"
+chrono = "0.4.0"
+regex = "0.2"
+rusqlite = "0.12.0"
