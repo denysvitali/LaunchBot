@@ -1,6 +1,7 @@
-# LaunchBot
-This bot shows upcoming space launches  
-[try it yourself](https://telegram.me/spacealertbot)
+# LaunchBot 🚀
+This bot shows upcoming space launches, using [LaunchLibrary](https://launchlibrary.net/).  
+
+[Try it yourself](https://telegram.me/spacealertbot)
 
 ## Commands
 `/nextlaunch`

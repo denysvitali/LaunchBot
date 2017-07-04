@@ -49,7 +49,7 @@ pub fn get_launches() -> String {
 
                 match launch["vidURLs"][0].as_str() {
                     Some(vid) => {res.push_str(&format!("Streaming available [here]({})", vid)); },
-                    None => { res.push_str(&format!("No streaming available :("))}
+                    None => { res.push_str(&format!("No streaming available yet :("))}
                 }
             }
 
